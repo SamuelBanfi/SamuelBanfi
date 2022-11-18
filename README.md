@@ -4,6 +4,10 @@ My name is Samuel Banfi and I'm intrested in
 - Web development
 - Python
 - Java
+- Artificial Intelligence
+- Photos and videos editing
+
+I'm currently learning **ethical hacking**
 
 <hr>
 
