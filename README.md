@@ -13,8 +13,8 @@ I'm currently learning **ethical hacking**
 
 ### Contact me 👌
 
-Website: [Samuel Banfi](https://samuelbanfi.ch)<br>
-LinkedIn: [Samuel Banfi](https://www.linkedin.com/in/samuel-banfi-18129b243/)<br>
+Website: [Samuel Banfi](https://samuelbanfi.ch)<br><br>
+LinkedIn: [Samuel Banfi](https://www.linkedin.com/in/samuel-banfi-18129b243/)<br><br>
 Youtube: [Samuel Banfi](https://www.youtube.com/channel/UCpwOGJc0Q0nN6X0U706X30A)
 
 <hr>
