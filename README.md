@@ -11,6 +11,14 @@ I'm currently learning **ethical hacking**
 
 <hr>
 
+### Contact me 👌
+
+Website: [Samuel Banfi](https://samuelbanfi.ch)
+LinkedIn: [Samuel Banfi](https://www.linkedin.com/in/samuel-banfi-18129b243/)
+Youtube: [Samuel Banfi](https://www.youtube.com/channel/UCpwOGJc0Q0nN6X0U706X30A)
+
+<hr>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbanfi&theme=tokyonight&layout=compact&hide_border=true&border_radius=25&custom_title=Top%20Languages&langs_count=10)
 
 <hr>
